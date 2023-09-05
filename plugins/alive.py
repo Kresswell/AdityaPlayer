@@ -38,20 +38,20 @@ async def start_(client: Client, message: Message):
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ sᴜᴘᴇʀ ғᴀsᴛ ᴠᴄ ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴀᴅɪᴛʏᴀ ʜᴀʟᴅᴇʀ](https://t.me/adityahalder)
-┣★ ᴜᴘᴅᴀᴛᴇs : [ᴀᴅɪᴛʏᴀ sᴇʀᴠᴇʀ](https://t.me/adityaserver)
-┣★ sᴜᴘᴘᴏʀᴛ : [ᴀᴅɪᴛʏᴀ ᴅɪsᴄᴜs](https://t.me/adityadiscus)
-┣★ sᴏᴜʀᴄᴇ › : [ɢᴇᴛ ʀᴇᴘᴏ ʜᴇʀᴇ](https://github.com/mradityaxd/adityaplayer)
+┣★ ᴄʀᴇᴀᴛᴏʀ : [ᴋʀᴇssᴡᴇʟʟ](https://t.me/EscaliBud)
+┣★ ᴜᴘᴅᴀᴛᴇs : [ɪɴғɪɴɪᴛʏ ʜᴀᴄᴋ3ʀs](https://t.me/InfinityHack3rsKE)
+┣★ sᴜᴘᴘᴏʀᴛ : [ɪɴғɪɴɪᴛʏ ᴄʜᴀᴛ](https://t.me/InfinityHack3rs)
+┣★ ᴡᴇʙsɪᴛᴇ › : [ᴠɪsɪᴛ ᴍʏ ᴡᴇʙsɪᴛᴇ](https://www.infinityhackers.xyz)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ
-ᴅᴍ ᴛᴏ ᴍʏ [ʟᴇɢᴇɴᴅ ᴏᴡɴᴇʀ](https://t.me/adityahalder) ...
+ᴅᴍ ᴛᴏ ᴍʏ [𝙼𝙰𝚂𝚃𝙴𝚁𓄅](https://t.me/EscaliBud) ...
 ━━━━━━━━━━━━━━━━━━━━━━━━**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/adityaserver")
+                        "➕ ❰ ᴊᴏɪɴ ʜᴇʀᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇs ❱ ➕", url=f"https://t.me/InfinityHack3rsKE")
                 ]
                 
            ]
@@ -68,7 +68,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/adityadiscus")
+                        "💥 ᴊᴏɪɴ ʜᴇʀᴇ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ 💞", url=f"https://t.me/InfinityHack3rs")
                 ]
             ]
         ),
@@ -84,7 +84,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ 💞", url=f"https://github.com/mradityaxd/adityaplayer")
+                        "💥 ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ᴠɪsɪᴛ ᴍʏ ᴡᴇʙsɪᴛᴇ 💞", url=f"https://www.infinityhackers.xyz")
                 ]
             ]
         ),
